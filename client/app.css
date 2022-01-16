@@ -23,7 +23,7 @@
 }
 
 .dropzone {
-  border-style: dashed;
+  border-style:double;
 }
 
 
@@ -31,7 +31,7 @@
   font-family: MerriweatherRegular;
   font-size: 30px;
   line-height: initial;
-  color: blue;
+  color: black;
   text-align: center;
 }
 
@@ -53,3 +53,4 @@
   background-color: #4CAF50;
   color: white;
 }
+
