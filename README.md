@@ -1,7 +1,7 @@
 # MLclassification
 
 A data science and machine learning project, where I classify my favourite dota 2 players. Classification is only restricted to 5 players.
-![image](https://user-images.githubusercontent.com/83166263/149656337-bc911013-e7e2-41ae-8756-dec56202444d.png)
+![image](https://user-images.githubusercontent.com/83166263/149657017-c2299b43-40e2-4fb7-9664-8481a069bb0d.png)
 
 Players:
 1.  arteezy
