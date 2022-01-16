@@ -1,6 +1,6 @@
 # MLclassification
 
-A data science and machine learning project, we classify my favourite dota 2 players. Classification is only restricted to 5 players.
+A data science and machine learning project, where I classify my favourite dota 2 players. Classification is only restricted to 5 players.
 ![image](https://user-images.githubusercontent.com/83166263/149656337-bc911013-e7e2-41ae-8756-dec56202444d.png)
 
 1.  arteezy
