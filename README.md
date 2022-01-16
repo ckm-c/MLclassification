@@ -9,11 +9,10 @@ A data science and machine learning project, we classify my favourite dota 2 pla
 4.  puppey
 5.  zai
 
-Here is the folder structure,
-
-  client : This contains client website code
-  server: Python flask server
-  model: Contains python notebook for model building
+Here is the folder structure:
+•  client : This contains client website code
+• server: Python flask server
+• model: Contains python notebook for model building
 
 
 Technologies used in this project,
