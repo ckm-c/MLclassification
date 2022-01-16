@@ -8,7 +8,7 @@ A data science and machine learning project, where I classify my favourite dota 
 3.  miracle
 4.  puppey
 5.  zai
-6.  
+
 Images from dataset are downloaded from google where i uses fatkun to download bulk images and convert all images to jpg format.
 
 Here is the folder structure,
